@@ -1,6 +1,6 @@
 Package: censusGeography
 Type: Package
-Title: Changes Census Geographic Code Into Name of Location
+Title: Changes Census Geographic Code into Name of Location
 Version: 0.1.0
 Authors@R: person("Jacob", "Kaplan", email = "jacobkap@sas.upenn.edu", role = c("aut", "cre"))
 Depends:
@@ -8,7 +8,7 @@ Depends:
 Imports:
     qdapTools
 Description: Converts the Census geographic code for city, state (FIP and ICP),
-    region, and birthplace, into the name of the region. e.g. takes an imput of
+    region, and birthplace, into the name of the region. e.g. takes an input of
     Census city code 5330 to it's actual city, Philadelphia. Will return NA for code
     that doesn't correspond to real location.
 License: GPL
