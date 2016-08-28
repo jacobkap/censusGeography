@@ -1,4 +1,4 @@
-#' Census Geography
+#' United States Census Geography
 #'
 #' @param dataset
 #' Enter a list, dataframe, or single number, that is the code for a geographic
